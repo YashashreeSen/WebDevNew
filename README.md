@@ -1,2 +1,2 @@
 # WebDevNew
-It concludes basic features web development, mainly front-end
+It concludes basic features of web development, mainly front-end
